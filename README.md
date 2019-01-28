@@ -4,11 +4,11 @@
 ## Project Name: Authentication
 
 ### Author:  Hannah Ingham, Jared Pattison
-
+[![Build Status](https://www.travis-ci.com/jaredpattison/16.svg?branch=master)](https://www.travis-ci.com/jaredpattison/16)
 ### Links and Resources
-* [repo]https://github.com/hingham/16-authentication-hi
-* [travis][![Build Status](https://www.travis-ci.com/hingham/16-authentication.svg?branch=master)](https://www.travis-ci.com/hingham/16-authentication)
-* [back-end](http://xyz.com) (when applicable)
+* [repo](https://github.com/jaredpattison/16)
+* [travis](https://www.travis-ci.com/jaredpattison/16)]
+* [back-end](https://j-h-16.herokuapp.com/)
 
 
 ### Modules
@@ -46,12 +46,13 @@ http get :4000/books -a username:password
 #### Tests
 * How do you run tests?
     * runs tests using super goose
+    * npm test
 * What assertions were made?
     * asserts that a new user can be created
     * asserts that users users signed in can see books
     * login in a user with correct creditials
     * fails to login user with incorrect credentials
-* What assertions need to be / should be made?
+
 
 #### UML
-![image](./auth-server/assets/auth-wb-image.JPG)
+![image](./assets/auth-wb-image.JPG)
