@@ -7,7 +7,7 @@
 [![Build Status](https://www.travis-ci.com/jaredpattison/16.svg?branch=master)](https://www.travis-ci.com/jaredpattison/16)
 ### Links and Resources
 * [repo](https://github.com/jaredpattison/16)
-* [travis](https://www.travis-ci.com/jaredpattison/16)]
+* [travis](https://www.travis-ci.com/jaredpattison/16)
 * [back-end](https://j-h-16.herokuapp.com/)
 
 
